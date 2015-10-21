@@ -1,6 +1,8 @@
 cf-entity
 ===
 
+[![Join the chat at https://gitter.im/brooklyncentral/cf-entity](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brooklyncentral/cf-entity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a Sample Brooklyn project, showing how to define an application
 which Brooklyn will deploy and manage.
 
